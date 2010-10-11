@@ -3,7 +3,8 @@
 #
 # A MongoDB Nagios check script
 # 
-# Script idea taken from Mike Zupans check_mongodb.py  script I found and I modified it a lot
+# Script idea taken from Mike Zupans check_mongodb.py. Special thanks to Mike for fixing problems within minutes,
+# also for being up all sorts of crazy hours ;-)
 #
 # Contributer of this fork
 #   - Frank Brandewiede <brande@travel-iq.com> <brande@bfiw.de>
